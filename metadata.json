@@ -1,0 +1,6 @@
+{
+  "name": "TubeBoost AI - YouTube SEO Optimizer & Competitor Analyzer",
+  "description": "Aplikasi pengolah dan pendukung YouTube SEO otomatis dari script naskah cerita, generator judul 20-60 karakter, deskripsi berstruktur, tags 300-500 karakter, checklist VidIQ lengkap, dan analisis pesaing.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
